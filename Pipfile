@@ -10,6 +10,7 @@ isort = {extras = ["pipfile"],version = "==4.3.21"}
 [packages]
 django = "==2.2.7"
 djangorestframework = "==3.10.3"
+django-extensions = "*"
 
 [requires]
 python_version = "3.7"

@@ -37,6 +37,12 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    # Third party. Preferred way is to not map to the config directly. 
+    'rest_framework',
+    'django_extensions',
+    # First party apps. Preferred way is to map to the config directly.
+    'blog.apps.BlogConfig',
+    'organizer.apps.OrganizerConfig',
 ]
 
 MIDDLEWARE = [
