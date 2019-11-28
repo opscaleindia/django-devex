@@ -1,4 +1,4 @@
-Django starter project for great developer experience
+Django project setup for startups
 ============================================================================
 
 1. Uses isort to sort the imports by specific guidelines and conventions.
