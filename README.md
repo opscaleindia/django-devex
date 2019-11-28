@@ -13,7 +13,7 @@ Django starter project for great developer experience
 
 6. Uses .gitignore to ignore files and directories not needed in the repo.
 
-7. Uses .pre-commit-config.yaml to configure pre-commit hooks for linting.
+7. Uses .pre-commit-config.yaml to configure pre-commit hooks for clean commits.
 
 8. Uses Dockerfile and docker-compose.yaml to provide one liner stack setup.
 
