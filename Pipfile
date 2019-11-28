@@ -11,6 +11,9 @@ isort = {extras = ["pipfile"],version = "==4.3.21"}
 django = "==2.2.7"
 djangorestframework = "==3.10.3"
 django-extensions = "*"
+flake8 = "*"
+pre-commit = "*"
+black = "==3.7"
 
 [requires]
 python_version = "3.7"

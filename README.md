@@ -18,5 +18,3 @@ Django starter project for great developer experience
 8. Uses Dockerfile and docker-compose.yaml to provide one liner stack setup.
 
 9. Uses /src as the directory for the project where Django apps live.
-
-
